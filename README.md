@@ -1,2 +1,1 @@
-# -Python-Selenium
-Автотесты Python + Selenium
+Проект для выполнения домашнего задания.
